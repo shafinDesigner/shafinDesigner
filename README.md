@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/shafinDesigner">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2800&pause=1200&color=39D353&center=true&vCenter=true&width=600&lines=VLSI+Physical+Design+%7C+RTL-to-GDSII;Cadence+Genus+%E2%86%92+Innovus+%E2%86%92+Tempus+%E2%86%92+Voltus+%E2%86%92+Pegasus;SKY130+%C2%B7+OSU+45nm+%C2%B7+ASAP7+7nm;Clean+tape-out.+Every+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2800&pause=1200&color=39D353&center=true&vCenter=true&width=600&lines=VLSI+Physical+Design+%7C+RTL-to-GDSII;Cadence+Genus+%E2%86%92+Innovus+%E2%86%92+Tempus+%E2%86%92+Voltus+%E2%86%92+Pegasus;SKY130+%C2%B7+gsclib045+45nm+%C2%B7+ASAP7+7nm;Clean+tape-out.+Every+time." alt="Typing SVG" />
 </a>
 
 <br/>
