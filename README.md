@@ -19,6 +19,5 @@ Final-year EEE @ [Islamic University of Technology](https://www.iutoic-dhaka.edu
 ![](https://img.shields.io/badge/HDL-Verilog%20%7C%20TCL%20%7C%20Python-bc8cff?style=for-the-badge&labelColor=0d1117&color=bc8cff)
 
 </div>
----
 
 
