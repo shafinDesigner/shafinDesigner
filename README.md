@@ -19,28 +19,9 @@ Final-year EEE @ [Islamic University of Technology](https://www.iutoic-dhaka.edu
 ![](https://img.shields.io/badge/HDL-Verilog%20%7C%20TCL%20%7C%20Python-bc8cff?style=for-the-badge&labelColor=0d1117&color=bc8cff)
 
 </div>
-
 ---
 
-## `// signoff metrics`
-
-| | |
-|:---:|:---:|
-| ![500 MHz](https://img.shields.io/badge/500_MHz-MAX_FREQ-39d353?style=for-the-badge&labelColor=161b22) | ![15,261 cells](https://img.shields.io/badge/15%2C261-STD_CELLS-58a6ff?style=for-the-badge&labelColor=161b22) |
-| ![0 DRC](https://img.shields.io/badge/0-DRC_VIOLATIONS-bc8cff?style=for-the-badge&labelColor=161b22) | ![4 nodes](https://img.shields.io/badge/4-PROCESS_NODES-f0883e?style=for-the-badge&labelColor=161b22) |
-
----
-
-## `// asic design flow`
-
-```
-RTL  →  GENUS  →  LEC  →  INNOVUS  →  TEMPUS  →  VOLTUS  →  PEGASUS  →  ✓ GDSII
-       Synth     Conformal   P&R        STA      Power/IR    DRC/LVS     Tape-Out
-```
-
----
-
-## `// process nodes · PDKs`
+## `// worked on process nodes · PDKs`
 
 | PDK | Node | Type |
 |-----|------|------|
@@ -93,112 +74,7 @@ RTL  →  GENUS  →  LEC  →  INNOVUS  →  TEMPUS  →  VOLTUS  →  PEGASUS 
 
 </details>
 
-<details>
-<summary><b>🔬 8-Bit Counter — Full Cadence Suite</b> — RTL-to-GDSII + Power Analysis · 2026</summary>
-
-<br/>
-
-> Complete flow on 45nm gsclib045: Xcelium simulation → Genus synthesis + DFT scan → Conformal LEC → Innovus P&R → Tempus STA → Voltus power/IR drop → GDSII.
-
-![5 mW](https://img.shields.io/badge/5_mW-Total_Power-f0883e?style=flat-square&labelColor=161b22)
-![IR drop](https://img.shields.io/badge/0.0017%25-IR_Drop-f0883e?style=flat-square&labelColor=161b22)
-![WNS](https://img.shields.io/badge/WNS_+8.313_ns-Setup-f0883e?style=flat-square&labelColor=161b22)
-![92%](https://img.shields.io/badge/92.31%25-Code_Coverage-f0883e?style=flat-square&labelColor=161b22)
-![0 DRC](https://img.shields.io/badge/0-DRC_Violations-f0883e?style=flat-square&labelColor=161b22)
-
-</details>
-
-<details>
-<summary><b>🖥 PicoRV32 RISC-V CPU RTL-to-GDSII</b> — 45nm · 2026</summary>
-
-<br/>
-
-> PicoRV32 RISC-V CPU through full RTL-to-GDSII using 45nm ASIC process node.
-
-![Genus](https://img.shields.io/badge/Genus-Synthesis-58a6ff?style=flat-square&labelColor=161b22)
-![Innovus](https://img.shields.io/badge/Innovus-P%26R-58a6ff?style=flat-square&labelColor=161b22)
-![45nm](https://img.shields.io/badge/OSU-45nm-58a6ff?style=flat-square&labelColor=161b22)
-![GDSII](https://img.shields.io/badge/GDSII-✓_Signoff-58a6ff?style=flat-square&labelColor=161b22)
-
-</details>
-
-<details>
-<summary><b>🔷 32-bit ALU RTL-to-GDSII</b> — SkyWater SKY130 · 2026</summary>
-
-<br/>
-
-> 32-bit ALU through full RTL-to-GDSII using Cadence Innovus on the SkyWater SKY130 130nm open-source PDK.
-
-![SKY130](https://img.shields.io/badge/SkyWater-SKY130-39d353?style=flat-square&labelColor=161b22)
-![130nm](https://img.shields.io/badge/Process-130nm-39d353?style=flat-square&labelColor=161b22)
-![GDSII](https://img.shields.io/badge/GDSII-✓_Signoff-39d353?style=flat-square&labelColor=161b22)
-
-</details>
-
-<details>
-<summary><b>🧮 8051 Full-Expression Calculator</b> — AT89C51 Assembly · 2024</summary>
-
-<br/>
-
-> Full expression calculator in 8051 assembly supporting operator precedence, brackets, and memory. 4×4 keypad + LCD display on AT89C51.
-
-![AT89C51](https://img.shields.io/badge/AT89C51-Microcontroller-58a6ff?style=flat-square&labelColor=161b22)
-![Assembly](https://img.shields.io/badge/8051-Assembly-58a6ff?style=flat-square&labelColor=161b22)
-![LCD](https://img.shields.io/badge/4×4_Keypad-LCD_Display-58a6ff?style=flat-square&labelColor=161b22)
-
-</details>
 
 ---
 
-## `// technical skills`
 
-**Cadence EDA**
-
-`Genus` `Innovus` `Tempus` `Voltus` `Conformal LEC` `Xcelium` `Pegasus`
-
-**Hardware Description & Scripting**
-
-`Verilog` `TCL` `Python` `C` `C++` `8051 Assembly`
-
-**Open-Source VLSI**
-
-`OpenLane` `Qflow` `SKY130 PDK` `ASAP7`
-
-**Simulation & EDA**
-
-`MATLAB` `Simulink` `Proteus` `Linux`
-
----
-
-## `// github stats`
-
-<div align="center">
-
-<a href="https://github.com/shafinDesigner">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shafinDesigner&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=58a6ff&text_color=c9d1d9&ring_color=39d353" />
-</a>
-<a href="https://github.com/shafinDesigner">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafinDesigner&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=6" />
-</a>
-
-</div>
-
----
-
-## `// connect`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siam_Al_Shafin-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/siam-al-shafin-0175bb395)
-[![GitHub](https://img.shields.io/badge/GitHub-shafinDesigner-39d353?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/shafinDesigner)
-[![Email](https://img.shields.io/badge/Email-shafiniutian@icloud.com-f0883e?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d1117)](mailto:shafiniutian@icloud.com)
-
-<br/>
-
-![](https://img.shields.io/badge/●_Open_to-VLSI_/_ASIC_Internships_&_Research_·_2026-39d353?style=flat-square&labelColor=0d1117)
-
-<br/>
-
-<sub><code>IUT · Gazipur, Bangladesh</code></sub>
-
-</div>
